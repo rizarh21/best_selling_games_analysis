@@ -14,3 +14,4 @@ This project analyzes and visualizes the best-selling games data on the Steam pl
 - Pandas
 - Matplotlib
 - Scikit Learn
+- XGBoost
